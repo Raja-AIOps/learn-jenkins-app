@@ -103,7 +103,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'https://extraordinary-druid-b2d64f.netlify.app/'
+                CI_ENVIRONMENT_URL = 'https://extraordinary-druid-b2d64f.netlify.app'
             }
 
             steps {
